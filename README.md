@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@deno/mod.js';
+import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@v0.1.0-deno/mod.js';
 ```
 
 #### t( v )
@@ -383,7 +383,7 @@ var o = rand.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@deno/mod.js';
+import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@v0.1.0-deno/mod.js';
 
 var seed;
 var rand;

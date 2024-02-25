@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@esm/index.mjs';
+import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@v0.2.1-esm/index.mjs';
 ```
 
 #### t( v )
@@ -388,7 +388,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@esm/index.mjs';
+import t from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-t@v0.2.1-esm/index.mjs';
 
 var seed;
 var rand;

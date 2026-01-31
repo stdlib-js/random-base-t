@@ -61,6 +61,7 @@
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-base-zeros": "^0.2.2",
     "@stdlib/constants-uint32-max": "^0.2.2",
     "@stdlib/math-base-special-ceil": "^0.2.2",
     "@stdlib/process-env": "^0.2.2",

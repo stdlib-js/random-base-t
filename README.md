@@ -439,6 +439,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/t`][@stdlib/random/array/t]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Student's t-distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/t`][@stdlib/random/iter/t]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a Student's t distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/t`][@stdlib/random/streams/t]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a Student's t distribution.</span>
+-   <span class="package-name">[`@stdlib/random-t`][@stdlib/random/t]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Student's t-distribution.</span>
 
 </section>
 
@@ -527,6 +528,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/t]: https://github.com/stdlib-js/random-iter-t
 
 [@stdlib/random/streams/t]: https://github.com/stdlib-js/random-streams-t
+
+[@stdlib/random/t]: https://github.com/stdlib-js/random-t
 
 <!-- </related-links> -->
 
